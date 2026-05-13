@@ -1,14 +1,19 @@
-# Dossier de Projet - Titre Professionnel DWWM
+# Dossier de Projet - Titre Professionnel DWWM (Niveau 5)
 
-Ce dépôt contient le dossier de projet réalisé dans le cadre de ma formation de Développeur Web et Web Mobile.
+Ce dépôt est destiné à la présentation du dossier de projet final pour le passage du titre professionnel Développeur Web et Web Mobile.
 
-## Informations Générales
-- **Candidat :** Badin Simon
-- **Projet :**  Estimmo-Savoies
-- **Date :** Mai 2026
+## État d'avancement
+- **Version actuelle :** V2 (Version corrigée)
+- **Date de mise à jour :** Mai 2026
+- **Statut :** Prêt pour examen final
+
+## Présentation
+Ce document présente la conception et la réalisation technique du projet de fin d'études. Il fait suite à un premier devoir bilan dont les retours ont été intégrés dans cette version.
 
 ## Note sur la confidentialité
-Conformément aux clauses de confidentialité liées au projet, le code source n'est pas diffusé sur ce dépôt public. Ce dernier est destiné exclusivement à la consultation du dossier écrit par les évaluateurs.
+Le code source du projet n'est pas inclus dans ce dépôt par mesure de confidentialité. Seul le dossier de synthèse est mis à disposition via ce répertoire privé.
 
-## Contenu
-- `Badin_Simon_Dossier_Projet.pdf` : Document complet présentant la conception et la réalisation technique.
+## Informations Candidat
+- **Candidat :** Simon Badin
+- **Titre visé :** Développeur Web et Web Mobile
+- **Projet :**  Estimmo-Savoies
